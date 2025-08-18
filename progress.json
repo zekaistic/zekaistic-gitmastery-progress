@@ -61,14 +61,5 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755499988.30625,
-    "completed_at": 1755499988.3501,
-    "comments": [
-      "too many values to unpack (expected 2)"
-    ],
-    "status": "Error"
   }
 ]
